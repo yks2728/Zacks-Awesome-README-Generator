@@ -107,14 +107,14 @@ const questions = [{
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    return fs.writeFileSync(path.join(path.cwd(),fileName), data)
+    return fs.writeFileSync(path.join(__dirname,'/dist',fileName), data)
 }
 
 // TODO: Create a function to initialize app
 function init() {
     inquire.prompt(questions)
     .then(response => {
-        writeToFile('README.md', markdown({...response}))
+        writeToFile('README.md', markdown(response))
     });
 }
 
