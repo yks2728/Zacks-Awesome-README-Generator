@@ -18,6 +18,15 @@ function generateMarkdown(data) {
 
   # Table of Contents
 
+  [Github](#Github)
+  [Email](#Email)
+  [Repo](#Repo)
+  [License](#License)
+  [Installation](#Installation)
+  [Tests](#Tests)
+  [Usage](#Usage)
+  [Contribution](#Contribution)
+
   # Github
   ${data.github}
   
