@@ -1,6 +1,6 @@
 
   # Description
-  This is a README generated using Node.js
+  This README is Generated using Node.js
 
   # Table of Contents
 
@@ -21,7 +21,7 @@
   
   # Repo
   
-  Zack's Awesome README Generator
+  Zacks Awesome README Generator
 
   ## license
       This Project is Licensed under Apache
@@ -38,7 +38,7 @@
 
   # Usage
   
-  That this is easy to use
+  nothing
 
   # Contribution
   

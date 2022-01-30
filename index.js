@@ -62,7 +62,7 @@ const questions = [{
     type: 'input',
     name: 'installation',
     message: 'What commands do you need to run to install dependencies',
-    default: 'nmp i'
+    default: 'npm i'
 },
 {
     type: 'input',
