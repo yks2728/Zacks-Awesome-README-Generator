@@ -1,6 +1,6 @@
 
   # Description
-  This README is Generated using Node.js
+  This README is generated using Node.js
 
   # Table of Contents
 
@@ -30,7 +30,7 @@
 
   # Installation
   
-  nmp i
+  npm i
 
   # Tests
   
@@ -38,9 +38,9 @@
 
   # Usage
   
-  nothing
+  That it was generated using Node.js
 
   # Contribution
   
-  nothing
+  nothing I can think of
 
