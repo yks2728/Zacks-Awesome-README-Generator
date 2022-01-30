@@ -1,13 +1,13 @@
 
   # Description
-  This is Generated using Node.js
+  This is a README generated using Node.js
 
   # Table of Contents
 
   [Github](#Github)
   [Email](#Email)
   [Repo](#Repo)
-  [License](#License)
+  [license](#license)
   [Installation](#Installation)
   [Tests](#Tests)
   [Usage](#Usage)
@@ -21,11 +21,12 @@
   
   # Repo
   
-  My Generated Professional README
+  Zack's Awesome README Generator
 
-  # License
+  ## license
+      This Project is Licensed under Apache
    
-  Apache
+  [![License](https://img.shields.io/badge/License-Apache-blue.svg)]
 
   # Installation
   
@@ -37,7 +38,7 @@
 
   # Usage
   
-  that it is easy to read
+  That this is easy to use
 
   # Contribution
   
