@@ -4,16 +4,6 @@ const path = require('path');
 const markdown = require('./utils/generateMarkdown');
 
 
-
-
-
-
-
-
-
-
-
-// TODO: Create an array of questions for user input
 const questions = [{
     type: 'input',
     name: 'github',
@@ -105,12 +95,12 @@ const questions = [{
     }
 }]
 
-// TODO: Create a function to write README file
+
 function writeToFile(fileName, data) {
     return fs.writeFileSync(path.join(__dirname,'/dist',fileName), data)
 }
 
-// TODO: Create a function to initialize app
+
 function init() {
     inquire.prompt(questions)
     .then(response => {
@@ -118,7 +108,7 @@ function init() {
     });
 }
 
-// Function call to initialize app
+
 init();
 
 
